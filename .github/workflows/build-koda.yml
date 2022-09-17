@@ -6,3 +6,5 @@ jobs:
     uses: ./.github/workflows/main.yml
     with:
       keyboard: '["oddrocket/koda"]'
+      alphas: '["qwerty"]'
+      mapping: '["EXTENDED_THUMBS"]'
